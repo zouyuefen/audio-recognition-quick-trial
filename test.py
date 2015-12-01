@@ -27,17 +27,14 @@ if __name__ == '__main__':
     X = 0
     print re.recognize_by_file( inputFile, X)
 
-    #inputFile must be in format: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 8000 Hz
+    '''
+    # Another way that recognize by buffer
+    # inputFile must be in format: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 8000 Hz
     inputFile = sys.argv[1]
     buf = open( inputFile, 'rb').read()
     print "recognizing by buffer ..."
     #recognize by file_audio_buffer that read from file path, and skip X seconds from from the beginning of sys.argv[1].
     X = 0
     print re.recognize_by_filebuffer(buf, X)
-
-    #aa.wav must be (RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 8000 Hz)
-    #buf = open('aa.wav', 'rb').read()
-    #buft = buf[1024000:192000+1024001]
-    #recognize by audio_buffer(RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 8000 Hz)
-    #print re.recognize(buft)
+    '''
 
