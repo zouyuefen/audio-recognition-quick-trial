@@ -3,12 +3,12 @@
 
 This repository contains step-by-step instructions of common audio recognition use cases:
 
-<a href="https://github.com/acrcloud-demo/audio-recognition-quick-trial/archive/master.zip">Download</a> this repository to start (Linux x86-64 Environment needed).
+<a href="https://github.com/acrcloud-demo/audio-recognition-quick-trial/archive/master.zip">Download</a> or clone this repository to start (Linux x86-64 Environment needed).
 
 <h3>Recognise Recorded Audio Snippet ( with noise )</h3>
 <strong>Step 1</strong>
 
-Create an "Audio & Video Recognition" project and select options as the following picture (Make sure the "ACRCloud Music" bucket is selected). <br>
+Create an "Audio & Video Recognition" project and select options as the follow picture (Make sure the "ACRCloud Music" bucket is selected). <br>
 Save the <strong>access_key</strong> and <strong>access_key</strong> of the project for further use.
 ![image](https://github.com/acrcloud-demo/audio-recognition-quick-trial/blob/master/create_project.png)
 
