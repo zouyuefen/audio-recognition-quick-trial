@@ -42,7 +42,7 @@ Create another project and select "Line-in Audio (Audio of original file or stre
 
 <strong>Step 2</strong>
 
-Edit <strong>test.py</strong> with <strong>access_key</strong> and <strong>access_key</strong> of this project ans save it.
+Edit <strong>test.py</strong> with <strong>access_key</strong> and <strong>access_key</strong> of this project and save it.
 
 <strong>Step 3</strong>
 
