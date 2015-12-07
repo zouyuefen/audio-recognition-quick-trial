@@ -2,7 +2,7 @@
 <a href="www.acrcloud.com">ACRCloud</a> is a cloud platform that helps excellent companies and developers integrate the most advanced ACR (Automatic Content Recognition) techniques into their products to get the abilities to recognize audios and videos, monitor radio streams, detect live TV contents and so on.
 <pre>
 <a href="https://github.com/acrcloud">Cross-platform SDKs</a> and <a href="http://docs.acrcloud.com/">Documents</a>. 
-Contact us (contact@acrcloud.com) if you have any questions.
+Contact us (<a href="mailto:contact@acrcloud.com">contact@acrcloud.com</a>) if you have any questions.
 </pre>
 
 This repository contains step-by-step instructions of common audio recognition use cases. 
