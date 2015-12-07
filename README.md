@@ -1,7 +1,11 @@
 # audio-recognition-quick-trial
 <a href="www.acrcloud.com">ACRCloud</a> is a cloud platform that helps excellent companies and developers integrate the most advanced ACR (Automatic Content Recognition) techniques into their products to get the abilities to recognize audios and videos, monitor radio streams, detect live TV contents and so on.
+<pre>
+<a href="https://github.com/acrcloud">Cross-platform SDKs</a> and <a href="http://docs.acrcloud.com/">Documents</a>. 
+Contact us (contact@acrcloud.com) if you have any questions.
+</pre>
 
-This repository contains step-by-step instructions of common audio recognition use cases. Access <a href="http://docs.acrcloud.com/">documentation</a> to learn more. Contact us (contact@acrcloud.com) if you have any questions.
+This repository contains step-by-step instructions of common audio recognition use cases. 
 
 <a href="https://github.com/acrcloud-demo/audio-recognition-quick-trial/archive/master.zip">Download</a> or clone this repository to start (Linux x86-64 Environment needed).
 
